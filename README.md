@@ -224,7 +224,7 @@ go test -bench=.
 
 ## License
 
-BSD 2-Clause License - same as the original rapidhash implementation.
+[BSD 3-Clause License](LICENSE)
 
 ## Credits
 
